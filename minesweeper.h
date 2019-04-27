@@ -37,6 +37,7 @@ void RecursiveFloodFill(struct MinesweeperGameState *GameState, unsigned int x, 
 bool Victory(struct MinesweeperGameState *GameState);
 void RenderField(struct MinesweeperGameState *GameState);
 void PrintAndPause(char *Message);
+void PrintInformation();
 bool InitializeBasic(struct MinesweeperGameState *GameState);
 void InitializeExtended(struct MinesweeperGameState *GameState, unsigned int FirstRevealX, unsigned int FirstRevealY);
 void DistributeMines(struct MinesweeperGameState *GameState, unsigned int Amount, unsigned int DisallowedX, unsigned int DisallowedY);

@@ -20,6 +20,8 @@ int main() {
 		GameOver = false;
 		Fresh = true;
 
+		PrintInformation();
+
 		GameQuit = InitializeBasic(&GameState);
 
 		while (!GameOver && !GameQuit) {
