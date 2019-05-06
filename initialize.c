@@ -12,6 +12,7 @@ void PrintInformation() {
 	printf("Minesweeper\n");
 	printf("(C) Joonas Saarinen\n");
 	printf("(C) MicroLabs\n\n");
+	printf("https://microlabs.fi/\n\n");
 	printf("This program is licensed under GNU General Public License (version 3).\n");
 	printf("Please see the included file gpl-3.0.txt for more details.\n\n");
 

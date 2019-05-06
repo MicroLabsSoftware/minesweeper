@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minesweeper", "minesweeper.vcxproj", "{0C15C533-AF74-4FE8-BA6E-B569624012C8}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup", "setup\setup.vdproj", "{2319A644-6BBC-43F0-9D61-89F5E47A436F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,9 @@ Global
 		{0C15C533-AF74-4FE8-BA6E-B569624012C8}.Debug|x64.Build.0 = Release|x64
 		{0C15C533-AF74-4FE8-BA6E-B569624012C8}.Release|x64.ActiveCfg = Release|x64
 		{0C15C533-AF74-4FE8-BA6E-B569624012C8}.Release|x64.Build.0 = Release|x64
+		{2319A644-6BBC-43F0-9D61-89F5E47A436F}.Debug|x64.ActiveCfg = Debug
+		{2319A644-6BBC-43F0-9D61-89F5E47A436F}.Release|x64.ActiveCfg = Release
+		{2319A644-6BBC-43F0-9D61-89F5E47A436F}.Release|x64.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
